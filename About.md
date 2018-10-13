@@ -4,6 +4,11 @@ Keeping this around for historical reference...
 
 For current debian based systems, better to use apt and grap the ssmtp package there, as it's still supported
 
+## Dependencies
+
+* openssl
+* inetutils
+
 ## USAGE
 
 sSMTP - simple mail agent
@@ -43,8 +48,8 @@ The trace there should be evident - it works or it doesn't
 
 Unfortunately - a few things might go wrong, so check the following
 
-* Check <gmailuser> and <gmailpassword> again
+* Check gmailuser and gmailpassword again
 * Check google is not blocking your new device
-* Check Two Factor Auth on Google Account
+* Check Two Factor Auth on Google Account - with two factor auth, you'll need to set an app password
 
 
