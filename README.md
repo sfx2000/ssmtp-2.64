@@ -1,6 +1,6 @@
 ## About sSMTP
 
-Keeping this around for historical reference...
+Keeping this around for historical reference... yes, this is old code
 
 for README - see below...
 
